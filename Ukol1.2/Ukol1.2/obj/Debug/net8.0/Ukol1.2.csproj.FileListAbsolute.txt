@@ -1,0 +1,15 @@
+/Users/annashagarova/C# Homework/Ukol1.2/Ukol1.2/bin/Debug/net8.0/Ukol1.2
+/Users/annashagarova/C# Homework/Ukol1.2/Ukol1.2/bin/Debug/net8.0/Ukol1.2.deps.json
+/Users/annashagarova/C# Homework/Ukol1.2/Ukol1.2/bin/Debug/net8.0/Ukol1.2.runtimeconfig.json
+/Users/annashagarova/C# Homework/Ukol1.2/Ukol1.2/bin/Debug/net8.0/Ukol1.2.dll
+/Users/annashagarova/C# Homework/Ukol1.2/Ukol1.2/bin/Debug/net8.0/Ukol1.2.pdb
+/Users/annashagarova/C# Homework/Ukol1.2/Ukol1.2/obj/Debug/net8.0/Ukol1.2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annashagarova/C# Homework/Ukol1.2/Ukol1.2/obj/Debug/net8.0/Ukol1.2.AssemblyInfoInputs.cache
+/Users/annashagarova/C# Homework/Ukol1.2/Ukol1.2/obj/Debug/net8.0/Ukol1.2.AssemblyInfo.cs
+/Users/annashagarova/C# Homework/Ukol1.2/Ukol1.2/obj/Debug/net8.0/Ukol1.2.csproj.CoreCompileInputs.cache
+/Users/annashagarova/C# Homework/Ukol1.2/Ukol1.2/obj/Debug/net8.0/Ukol1.2.sourcelink.json
+/Users/annashagarova/C# Homework/Ukol1.2/Ukol1.2/obj/Debug/net8.0/Ukol1.2.dll
+/Users/annashagarova/C# Homework/Ukol1.2/Ukol1.2/obj/Debug/net8.0/refint/Ukol1.2.dll
+/Users/annashagarova/C# Homework/Ukol1.2/Ukol1.2/obj/Debug/net8.0/Ukol1.2.pdb
+/Users/annashagarova/C# Homework/Ukol1.2/Ukol1.2/obj/Debug/net8.0/Ukol1.2.genruntimeconfig.cache
+/Users/annashagarova/C# Homework/Ukol1.2/Ukol1.2/obj/Debug/net8.0/ref/Ukol1.2.dll
