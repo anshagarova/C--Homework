@@ -5,7 +5,7 @@ public class Program
     public static void Main()
     {
         Random random = new Random();
-        int cislo = random.Next(1, 101); // Generuje náhodné číslo od 1 do 100
+        int cislo = random.Next(1, 101); 
         int tip;
 
         Console.WriteLine("Myslím si číslo od 1 do 100. Hádej!");
@@ -15,7 +15,6 @@ public class Program
             Console.Write("Hádej číslo: ");
             string vstup = Console.ReadLine();
 
-            // Zkusíme převést vstup na celé číslo
             if (!int.TryParse(vstup, out tip))
             {
                 Console.WriteLine("Neplatný vstup. Zadejte prosím celé číslo.");
@@ -33,7 +32,7 @@ public class Program
             else
             {
                 Console.WriteLine("To je správně!");
-                break; // Ukončíme smyčku, pokud uživatel uhádl číslo
+                break; 
             }
         } while (true);
     }
